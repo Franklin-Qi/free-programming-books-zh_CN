@@ -114,6 +114,7 @@
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [Linux Mint学习笔记](https://skyao.io/learning-linux-mint/docs/daily/network/clash.html)
 
 [返回目录](#目录)
 
